@@ -3,11 +3,12 @@
 
    Objetivo general
    
-   
+   * Dominar y ejercitar los conocimientos relacionados con las operaciones aritméticas en base a los numero complejos, haciendo énfasis en su forma polar como rectangular mediante la resolución del presente laboratorio que tiene como principal interés que el estudiante se familiarice con los fasores y pueda mediante estos comprender sus valores e implementarlo dentro de un circuito eléctrico.
 
    Objetivos específicos
    
-   * 
+   * Transformar los ejercicios propuestos por el docente de forma polar a forma rectangular y viceversa siguiendo una serie de pasos ordenados
+   * Resolver dichos ejercicios mediante calculadores para poder comprobar la exactitud de los valores obtenidos de forma teorica
    
 2. MARCO TEORICO
 
@@ -94,7 +95,7 @@
 
 6. CONCLUSIONES
 
-     * 
+     * La presente practica de laboratorio cumplió con éxito su objetivo el cual era permitir a los estudiantes reforzar y dominar sus conocimientos referentes al desarrollo de números complejos de forma polar a rectangular y de rectangular a polar, puesto que por medio de calculadores se pudo corroborar que los resultados obtenidos por medio de los cálculos teóricos son los mismos que los virtuales dando así la certeza de que los pasos realizados en la presente practica fueron correctos
 
 7. BIBLIOGRAFÍA 
 
